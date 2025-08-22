@@ -4,7 +4,6 @@ Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **desen
 Atualmente, estudo **Python, Flask e MySQL**, explorando também boas práticas no consumo e criação de **APIs REST**.  
 
 Tenho interesse em desenvolvimento de sistemas robustos, arquitetura de software e aplicações práticas de inteligência artificial.  
-Estou construindo meu portfólio e em busca da minha primeira oportunidade na área de tecnologia.  
 
 ---
 
@@ -25,7 +24,7 @@ Estou construindo meu portfólio e em busca da minha primeira oportunidade na á
 ---
 
 ## Contato  
-- [[Linkedin](www.linkedin.com/in/luan13) 
+- [[Linkedin](www.linkedin.com/in/luan13)] 
 - [[GitHub](https://github.com/Hyakk3)]  
 
 <!--
