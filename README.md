@@ -11,7 +11,7 @@ Tenho interesse em desenvolvimento de sistemas robustos, arquitetura de software
 - Python  
 - Flask  
 - MySQL  
-- HTML, CSS, JavaScript (nível básico)  
+- HTML, CSS, JavaScript 
 - Git/GitHub  
 
 ---
