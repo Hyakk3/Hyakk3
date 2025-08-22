@@ -25,8 +25,8 @@ Estou construindo meu portfólio e em busca da minha primeira oportunidade na á
 ---
 
 ## Contato  
-- [www.linkedin.com/in/luan13](#)  
-- [[GitHub](https://github.com/Hyakk3)](#)  
+- [[Linkedin](www.linkedin.com/in/luan13) 
+- [[GitHub](https://github.com/Hyakk3)]  
 
 <!--
 **Hyakk3/Hyakk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
