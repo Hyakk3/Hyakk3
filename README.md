@@ -23,8 +23,7 @@ Tenho interesse em desenvolvimento de sistemas robustos, arquitetura de software
 
 ---
 
-## Contato  
-- [[Linkedin]([www.linkedin.com/in/luan13](https://www.linkedin.com/in/luan13/))] 
+
 <!--
 **Hyakk3/Hyakk3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
